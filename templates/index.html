@@ -1,0 +1,486 @@
+<html>
+
+<head lang="zh-CN">
+    <title>FSCDP评论分析</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <script type="text/javascript" src="D:/programhtm/JS/Echarts4.7.0/echarts.js"></script> -->
+    <script crossorigin="anonymous" integrity="sha384-mlceH9HlqLp7GMKHrj5Ara1+LvdTZVMx4S1U43/NxCvAkzIo8WJ0FE7duLel3wVo"
+        src="https://lib.baomitu.com/jquery/3.4.1/jquery.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-DX1FVVXdGcNR016Jj6c5WuxYmyUvkb2/0ZMXKwbXaXs8j9tPs3e4RUjNg4tViEj4"
+        src="https://lib.baomitu.com/echarts/4.7.0/echarts-en.common.js"></script>
+
+    <style>
+        body {
+            background-color: #f6f6f6;
+            font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
+            font-size: 15px;
+            color: #121212;
+            margin: 0px auto;
+        }
+
+        .nav-search-content {
+            float: right;
+            margin: 12px;
+            padding-right: 100px;
+
+        }
+
+        #pie {
+            position: relative;
+            width: 650px;
+            height: 650px;
+            min-width: 600px;
+            min-height: 600px;
+            overflow: hidden;
+            background: #fff;
+        }
+
+        #nav-top {
+            border-bottom: 1px solid #f6f6f6;
+            position: relative;
+            padding: 16px 0;
+            overflow: hidden;
+            background: #fff;
+        }
+
+        .nav-search-content>.ipt {
+            width: 400px;
+            height: 36px;
+            background-color: transparent;
+            border: 0px;
+            border-bottom: 1px solid #f5f5f5;
+            border-radius: 0px;
+            text-indent: 1.5em;
+
+        }
+
+        .nav-search-content>.ipt:focus {
+            outline: none;
+            border-bottom: rgba(0, 102, 255, 0.5) 1px solid;
+            box-shadow: 0px -5px 5px -5px rgba(103, 166, 217, .5) inset;
+            /* background-color: #fcfcfc; */
+            -webkit-transition-duration: 0.1s;
+            transition-duration: 0.1s;
+            -webkit-transition-timing-function: ease-out;
+            transition-timing-function: ease-out;
+        }
+
+        #sba {
+            width: 72px;
+            height: 36px;
+            border-radius: 999px;
+            border: 0px;
+            margin-left: 12px;
+            color: #fff;
+            background-color: #06f;
+            box-shadow: 0 0 5px rgba(116, 116, 116, 0.5);
+
+            -webkit-transition-duration: 0.1s;
+            transition-duration: 0.1s;
+            -webkit-transition-timing-function: ease-out;
+            transition-timing-function: ease-out;
+        }
+
+        #bodyM {
+            margin: 14px auto;
+            width: 1024px;
+            background-color: #fff;
+            padding-top: 10px;
+            box-shadow: #ededed 1px;
+            /* background-color: #06f; */
+        }
+
+        .contents {
+            margin: 14px auto;
+            width: 1000px;
+            /* background-color: #ff0; */
+            padding-top: 10px;
+            border-bottom: #f6f6f6 1px solid;
+        }
+
+
+        #sba:active {
+            color: #06f;
+            background-color: transparent;
+        }
+
+        #Clist {
+            width: 1000px;
+        }
+
+        #Clist>.showboard {
+            padding: 8px 0;
+            border-bottom: #f6f6f6 1px solid;
+        }
+
+        .showboard>li {
+            list-style: none;
+            padding-top: 10px;
+            border-bottom: #f0f0f0 1px solid;
+        }
+
+        .comment-from {
+            /* border-right: #f6f6f6 1px solid; */
+            /* background-color: #06f; */
+            border-bottom: #f6f6f6 1px solid;
+            max-width: 230px;
+            font-weight: 700;
+            /* float: left; */
+        }
+
+        .comment {
+            /* background-color: yellow; */
+            /* border-bottom: #f6f6f6 1px solid; */
+            padding: 10px 0;
+        }
+
+        .appendix {
+            color: #9590A6;
+            display: block;
+            font-size: 6px;
+        }
+
+        /* .comment-from::after{
+            clear: both;
+            content: "";
+            visibility: hidden;
+            display: block;
+            height: 0;
+        } */
+        .show-H {
+            font-weight: 900;
+            color: #121212;
+            height: 30px;
+            font-size: 22px;
+            border-bottom: #f0f0f0 1px solid;
+        }
+    </style>
+</head>
+
+<body>
+
+    <section id="nav-top">
+        <img src="./src/ftico.png/" alt="图片" style="width: 150px; height: 55px; float: left; margin-left: 70px;">
+        <div class="nav-search-content"><input type="text" class="ipt"
+                placeholder="    https://www.bilibili.com/video.....">
+            <input type="button" id="sba" value="分析">
+        </div>
+    </section>
+    <div id="bodyM">
+        <div class="contents">
+            <span id="pie"></span>
+        </div>
+        <div class="contents" id="Clist">
+            <div class="showBoard " id="sug">
+                <div class="show-H">来自评论区的建议</div>
+                <!--                <li>-->
+                <!--                    <div class="comment-from">Juliusstein-->
+                <!--                        <span class="appendix">10人赞了该评论</span>-->
+                <!--                    </div>-->
+                <!--                    <div class="comment">上一次看见这么离谱的对局还是看我的天梯录像</div>-->
+                <!--                </li>-->
+                <!--                <li>-->
+                <!--                    <div class="comment-from">MagicBoy-->
+                <!--                        <span class="appendix"></span>-->
+                <!--                    </div>-->
+                <!--                    <div class="comment">刚入坑 不知道怎么玩[笑哭]无从下手来看视频</div>-->
+                <!--                </li>-->
+                <!--                <li>-->
+                <!--                    <div class="comment-from">Yummy_C-->
+                <!--                        <span class="appendix">10人回复了该评论</span>-->
+                <!--                    </div>-->
+                <!--                    <div class="comment">直接看最后一集，卷死你们[doge]</div>-->
+                <!--                </li>-->
+            </div>
+            <div class="showBoard " id="que">
+                <div class="show-H">观众指出视频的问题</div>
+
+            </div>
+            <div class="showBoard " id="highpraise">
+                <div class="show-H">高赞评论</div>
+
+
+
+            </div>
+            <div class="showBoard " id="highreply">
+                <div class="show-H">高回复评论</div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript">
+
+    var neu = 0, pos = 0, sug = 0, neg = 0;
+    $(document).ready(function () {
+        $("#sba").click(function () {
+            $.ajax({
+                url: "/show",
+                data: {
+                    Ourl: $(".nav-search-content>.ipt").val()
+                },
+                type: "POST",
+                success: function (params) {
+                    clearInterval(wait);
+
+                    // !处理传入的数据
+                    pos = params["positive"];
+                    neg = params["negative"];
+                    neu = params["neutral"];
+                    var porportion = [
+                        { value: pos, name: '积极' },
+                        { value: neg, name: '负面' },
+                        { value: neu, name: '中立' }
+                    ];
+                    myChart.setOption(option);
+                    refreshData(porportion);
+
+                    SugestionRender(params["suggestion"]);
+                    QuestionRender(params["question"]);
+                    HighpraiseRender(params["high_praise"]);
+                    HighreplyRender(params["more_reply"]);
+
+                },
+
+
+
+                error: function (params) {
+                    console.log("network failed.");
+                    console.log($(".nav-search-content>.ipt").val());
+                    setTimeout(() => {
+                        clearInterval(wait);
+                        pos = 1;
+                        neg = 2;
+                        neu = 3;
+                        var porportion = [
+                            { value: pos, name: '积极' },
+                            { value: neg, name: '负面' },
+                            { value: neu, name: '中立' }
+                        ];
+                        myChart.setOption(option);
+                        refreshData(porportion);
+                        alert("network failed.")
+                    }, 3000);
+                }
+            })
+
+            function SugestionRender(list) {
+                $.each(list, function (key, value) {
+                    var newcomment = $("#sug");
+                    newcomment.append('<li><div class="comment-from">' + value.name + '</div><div class="comment">' + value.comment + '</div></li>');
+                });
+            };
+
+            function QuestionRender(list) {
+                $.each(list, function (key, value) {
+                    var newcomment = $("#que");
+                    newcomment.append('<li><div class="comment-from">' + value.name + '</div><div class="comment">' + value.comment + '</div></li>');
+                });
+            };
+
+            function HighpraiseRender(list) {
+                $.each(list, function (key, value) {
+                    var newcomment = $("#highpraise");
+                    newcomment.append('<li><div class="comment-from">' + value.name + '</div><span class="appendix">' + value.praise_num + '人赞了该评论</span><div class="comment">' + value.comment + '</div></li>');
+                });
+            };
+
+            function HighreplyRender(list) {
+                $.each(list, function (key, value) {
+                    var newcomment = $("#highreply");
+                    newcomment.append('<li><div class="comment-from">' + value.name + '</div><span class="appendix">' + value.reply_num + '人回复了该评论</span><div class="comment">' + value.comment + '</div></li>');
+                });
+            };
+
+
+
+            // console.log(pos);
+            myChart.setOption(waiting);
+            // myChart.setOption(option);
+            var b = 0;
+            var c = 0;
+            var d = 0;
+            var a = 100;
+
+            var wait = setInterval(function effect() {
+                a -= Math.random() % 10;
+                b = 100 - a;
+                var loading = [
+                    { value: b, name: '' },
+                    { value: a, name: '' }
+                ];
+                refreshData(loading);
+                if (b >= 100) {
+                    c = a;
+                    a = b;
+                    b = c;
+                    changecolor(c);
+                }
+            }, 10)
+
+
+        })
+    })
+
+    var myChart = echarts.init(document.getElementById('pie'));
+    // 指定图表的配置项和数据
+    var waiting = {
+        title: {//标题组件
+            text: '请稍后',
+            left: '200px',//标题的位置 默认是left，其余还有center、right属性
+            textStyle: {
+                color: "#436EEE",
+                fontSize: 24,
+            }
+        },
+        animation: false,
+        tooltip: { //提示框组件
+            trigger: 'none', //触发类型(饼状图片就是用这个)
+            formatter: "{b}</br> {c}条 ({d}%)" //提示框浮层内容格式器
+        },
+        color: ['#48cda6', '#fd87fb', '#11abff', '#ffdf6f', '#968ade'],  //手动设置每个图例的颜色
+        legend: {  //图例组件
+            // right:100,  //图例组件离右边的距离
+            orient: 'horizontal',  //布局  纵向布局 图例标记居文字的左边 vertical则反之
+            width: 4,      //图行例组件的宽度,默认自适应
+            x: 'right',   //图例显示在右边
+            y: 'center',   //图例在垂直方向上面显示居中
+            itemWidth: 12,  //图例标记的图形宽度
+            itemHeight: 12, //图例标记的图形高度
+            data: ['', ''],
+            textStyle: {    //图例文字的样式
+                color: '#333',  //文字颜色
+                fontSize: 16    //文字大小
+            }
+        },
+        series: [ //系列列表
+            {
+                name: '进度条',  //系列名称
+                type: 'pie',   //类型 pie表示饼图
+                center: ['46%', '50%'], //设置饼的原心坐标 不设置就会默认在中心的位置
+                radius: ['45%', '70%'],  //饼图的半径,第一项是内半径,第二项是外半径,内半径为0就是真的饼,不是环形
+                itemStyle: {  //图形样式
+                    normal: { //normal 是图形在默认状态下的样式；emphasis 是图形在高亮状态下的样式，比如在鼠标悬浮或者图例联动高亮时。
+                        label: {  //饼图图形上的文本标签
+                            show: false  //平常不显示
+                        },
+                        labelLine: {     //标签的视觉引导线样式
+                            show: false  //平常不显示
+                        }
+                    },
+                    emphasis: {   //normal 是图形在默认状态下的样式；emphasis 是图形在高亮状态下的样式，比如在鼠标悬浮或者图例联动高亮时。
+                        label: {  //饼图图形上的文本标签
+                            show: false,
+                            position: 'center',
+                            textStyle: {
+                                fontSize: '10',
+                                fontWeight: 'bold'
+                            }
+                        },
+                        labelLine: {
+                            show: true,
+                        },
+                        focus: 'none',
+                    }
+                },
+                data: [
+                    { value: 0, name: '' },
+                    { value: 100, name: '' }
+                ]
+            }
+        ]
+    };
+    var option = {
+        title: {//标题组件
+            text: 'FSCDP评论态度分析',
+            left: '200px',//标题的位置 默认是left，其余还有center、right属性
+            textStyle: {
+                color: "#436EEE",
+                fontSize: 24,
+            }
+        },
+        tooltip: { //提示框组件
+            trigger: 'item', //触发类型(饼状图片就是用这个)
+            formatter: "{a} <br/>{b} : {c}条 ({d}%)", //提示框浮层内容格式器
+            position: 'top'
+        },
+        color: ['#48cda6', '#fd87fb', '#11abff', '#ffdf6f', '#968ade'],  //手动设置每个图例的颜色
+        legend: {  //图例组件
+            // right:100,  //图例组件离右边的距离
+            orient: 'horizontal',  //布局  纵向布局 图例标记居文字的左边 vertical则反之
+            width: 4,      //图行例组件的宽度,默认自适应
+            x: 'right',   //图例显示在右边
+            y: 'center',   //图例在垂直方向上面显示居中
+            itemWidth: 12,  //图例标记的图形宽度
+            itemHeight: 12, //图例标记的图形高度
+            data: ['积极', '负面', '中立'],
+            textStyle: {    //图例文字的样式
+                color: '#333',  //文字颜色
+                fontSize: 16    //文字大小
+            }
+        },
+        series: [ //系列列表
+            {
+                name: '评论态度',  //系列名称
+                type: 'pie',   //类型 pie表示饼图
+                center: ['46%', '50%'], //设置饼的原心坐标 不设置就会默认在中心的位置
+                radius: ['45%', '70%'],  //饼图的半径,第一项是内半径,第二项是外半径,内半径为0就是真的饼,不是环形
+                itemStyle: {  //图形样式
+                    normal: { //normal 是图形在默认状态下的样式；emphasis 是图形在高亮状态下的样式，比如在鼠标悬浮或者图例联动高亮时。
+                        label: {  //饼图图形上的文本标签
+                            show: false  //平常不显示
+                        },
+                        labelLine: {     //标签的视觉引导线样式
+                            show: false  //平常不显示
+                        }
+                    },
+                    emphasis: {   //normal 是图形在默认状态下的样式；emphasis 是图形在高亮状态下的样式，比如在鼠标悬浮或者图例联动高亮时。
+                        label: {  //饼图图形上的文本标签
+                            show: true,
+                            position: 'center',
+                            textStyle: {
+                                fontSize: '10',
+                                fontWeight: 'bold'
+                            }
+                        },
+                        labelLine: {
+                            show: true,
+                        },
+                        focus: 'series',
+                    }
+                },
+                data: [
+                    { value: 0, name: '积极' },
+                    { value: 0, name: '负面' },
+                    { value: 0, name: '中立' }
+                ]
+            }
+        ]
+    };
+    myChart.setOption(option);
+    // console.log(myChart.getOption());
+
+    function refreshData(data) {
+        //刷新数据
+        var option = myChart.getOption();
+        option.series[0].data = data;
+        myChart.setOption(option);
+    }
+    function changecolor(n) {
+        var option = myChart.getOption();
+        // console.log(myChart.getOption());
+        var tmp = option.color[option.color.length - 1];
+        for (let index = option.color.length - 1; index > 0; index--) {
+            option.color[index] = option.color[index - 1];
+        }
+        option.color[0] = tmp;
+        // console.log(option.color);
+        myChart.setOption(option);
+    }
+
+
+
+</script>
+
+</html>

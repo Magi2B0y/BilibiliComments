@@ -1,0 +1,1150 @@
+Now process file: 672_ori_2.csv
+Enter the start point [0,len(file)):0
+Now line 0
+课代表来了！！！0:00《红莲华》0:16《loser》0:31《mojito》0:48《DADDY!DADDY!DO!》1:06《maria》1:20《你最最最重要》1:35《 万有引力》1:45《yes！ok！》1:54《少年》2:02《你要跳舞吗》2:10《下山》2:20《处处吻》2:28《破茧》2:43《你的答案》2:52《执 迷不悟》2:59《unravel》3:16《Astronamia》黑人抬棺3:33《画画的baby》3:41《酒醉的蝴蝶》3:56《how you like that》4:04《Old Town Road》4:13《淡黄的长裙》4:20《last dance》4:38《飞鸟和蝉》4:59《情人》5:09《云与海》5:29《永不失联的爱》5:51《无人 之岛》6:06《冬眠》6:25《是想你的声音啊》6:38《吹灭小山河》6:54《谪仙》7:12《莫问归期》7:36《海底》7:49《十年人间》8:07《赤伶》8:26《孽海记》8:44《燕无歇》9:02《隔岸》9:22《囍》
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 1
+这个串烧是up为了向我们展示她有多少衣服[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 2
+这一首让我知道了2020火了哪些歌曲[捂脸-圣诞][捂脸-圣诞][捂脸-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 3
+我这次真的豁出去了 这个几秒钟的舞就是50w粉福利了（我坚信）完整的舞也可以有，就是啥东西有点少你们懂吧？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 4
+串烧绝不是把歌剪辑到一起，每首歌中间过渡的旋律都需要调或者自己成调，我亲身体会过，因为串烧做的不好，被骂的狗血淋头，所以影响很深，杨同学这首串烧从轻快，到最后的悲愁使我深陷其中，有什么讲的不对的欢迎大家批评，周董的mojito放前面，我觉得很不错，鸽王这一年就这一首歌，只能等2021了。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 5
+从头看到尾，越看越觉得哪里不对，跪下来重新看了一遍果然舒服多了[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns:
+PS C:\Users\672\Desktop\FSCDP>
+PS C:\Users\672\Desktop\FSCDP> python .\classify.py
+Now process file: 672_ori_2.csv
+Enter the start point [0,len(file)):4
+Now line 5
+从头看到尾，越看越觉得哪里不对，跪下来重新看了一遍果然舒服多了[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 6
+[热词系列_妙啊]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 7
+这么火呢，明儿德哥也给大家唱一波[热词系列_好家伙]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 8
+看完了，虽然有部分歌没有听过，但这一期的质量是很强的，五连奉上。“这个年代真好啊，本来我可能穷尽一生也不会见到这样漂亮的 女孩，而现在却能通过网络轻而易举看到她绝美的容颜，听见她婉转的歌声，尽管这歌不为我而唱。”突然想起这句话，之前在某个视频 评论区看到的，侵删
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 9
+哦辣妹迷死他！[Kizuna AI _拿第一][Kizuna AI _拿第一]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 10
+2021我们要来啦！！！祝大家健健康康、开开心心！！！（顺便给小杨同学来个三连8[doge-圣诞]）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 11
+从古风到jk…女人果然是善变的[吃瓜-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 12
+经典每年这种时候都会有人刷没听过，然后又会有人喷优越怪，太经典了，看了几年了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 13
+《红莲华》LiSA《Loser》米津玄师《MoJito》周杰伦《DADDY!DADDY!DO!》铃木雅之＆铃木爱理《Maria》华莎《你最最最重要》创造营2020学员《万有引力》汪苏泷《YES!OK!》青春有你2《少年》梦然《你要跳舞吗》新裤子《下山》要不要买菜《处处吻》杨千嬅《破茧》 张韶涵《你的答案》阿冗《执迷不悟》小乐哥《Unravel》TK from 凛として時雨《Astronomia》Tony Igy《画画的baby》黑猫警长Giao 哥《酒醉的蝴蝶》崔伟立《how you like that》BLACKPINK《Old Town Road》Lil Nas X《Melody》李熙凝《Last dance》伍佰《飞鸟和蝉》任然《情人》蔡徐坤《云与海》阿YueYue《永不失联的爱》周兴哲《无人之岛》任然《冬眠》司南《是想你的声音啊》傲七爷《吹灭小山河》国风堂＆司南《谪仙》伊格赛听＆叶里《莫问归期》蒋雪儿《海底》一支榴莲《十年人间》李常超《赤伶》HITA《孽海记》黄诗扶《燕无歇》蒋雪儿《隔岸》姚六一《囍》葛东琪
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 14
+白嫖失败，题诗一首：千变妆容魅亦纯，诚然可爱美还真。串烧荡起千堆雪，天籁绕梁梦也沉。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 15
+unravel那段很像小时候出去玩，回来发现家里锁门，蹲在门口画圈圈[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 16
+什么时候搞个以前很火的歌串烧（比如爱情买卖，白狐，情人那种，最近沉迷这种老歌出不去了[捂脸]）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 17
+真的好活[热词系列_可以]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 18
+Cover是什么歌手 好强 每一首都有他
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 19
+戏腔段炸裂我的耳膜 有被爽到 我直接白嫖失败[妙啊-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 20
+可爱终于又出串烧啦[微笑]串烧(X)换装(√)
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 21
+很好听！歌都是好歌，至于为什么都听过且现在一些歌听到就会烦那就得问问某俩软件和喜欢公共场合外放的脑癌们了[呲牙-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 22
+来看看我们家可爱~~
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 23
+带制作！好听好听！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 24
+2020年最火40首热歌宇宙大串烧策划/编曲/尤克里里/演唱：杨可爱混音：做音乐的JIA拍摄/后期：茜茜张服装：汉尚华莲 桃花羽扇、花开了PHOTO、灰子室内场景：花开了PHOTO《红莲华》LiSA強くなれる理由を知った僕を連れて 進め《Loser》米津玄师《Mojito》周杰伦麻烦给我的爱人来一杯 Mojito我喜欢阅读她微醺时的眼眸而我的咖啡糖不用太多这世界已经因为她甜得过头《DADDY!DADDY! DO!》鈴木 雅之 (すずきまさゆき) / 铃木爱理 (すずき あいり)DADDY! DADDY! DO!欲しいのさ あなたのすべてが愛に抱かれギラギラ燃えてしまいたい《Maria》华莎마리아 마리아널 위한 말이야빛나는 밤이야널 괴롭히지마오 마리아 널 위한 말이야뭐 하러 아등바등해이미  아름다운데《你最最最重要》创造营2020学员稍息立正站好 请报到 第一眼微笑抬头挺胸收腰 别尖叫 胸口怦怦跳灯光镜头前摇 准备好 倒数前三秒脸上红晕朵朵 管不了你最最最重要《万有引力》汪苏泷终于等到响起了下课铃已经约好在操场等你夏天真的是闷得可以带你 去吃草莓冰淇淋《YES!OK!》青春有你2YES OKYES OKYES OKYES OK出发 Ba La Ba La Ba《少年》梦然我还是从前那个少年没有一丝丝改 变时间只不过是考验种在心中信念丝毫未减《你要跳舞吗》新裤子你你你你要跳舞吗你你你你要跳舞吗你你你你要跳舞吗你你你你要跳舞吗《下山》要不要买菜要想练就绝世武功就要忍受常人难忍受的痛师傅喜欢喝的茶叫做乌龙衣服爱穿中国红《处处吻》杨千嬅你小心一吻便颠倒众生一吻便救一个人给你拯救的体温总会再捐给某人《破茧》张韶涵牵你手 往前走黑夜白昼 不停留辗转时空会挫伤 会心痛依然 奋勇 去战斗《你的答案》阿冗黎明的那道光会越过黑暗打破一切恐惧我能找到答案《执迷不悟》小乐哥我对你又何止是执迷不悟眼泪偶 尔会莫名的光顾《Unravel》TK from 凛として時雨教えて 教えてよ その仕組みを僕の中に誰がいるの？《Astronomia》黑人抬棺 Vicetone / Tony Igy
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 25
+UP主太天真了，你真的以为B站有那么多人看你的视频吗？其实都是我的小号，不信我现在换个号回复我自己[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 26
+可惜没有迪加主题曲，但是[热词系列_三连]还是安排上了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 27
+歌好听就是好听啊，没必要因为在抖音火就觉得是神曲啥的，类似（我不刷抖音我就比你品味高）的优越感属实不必。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 28
+这些歌我都听过，全曲没听过，都是我室友看抖音快手我都记得[辣眼睛-圣诞][辣眼睛-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 29
+可爱的人可爱的歌可盐可甜可萌可御
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 30
+场景是广西师范大学，我在那躺了4年[热词系列_妙啊]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 31
+有像我一样40首有30首没听过的吗[大哭] 看来我跟不上大流了要认老了[大哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 32
+这质量让我想起了当年的情歌王！以及2012欧美串烧，总结就一个字！赞！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 33
+为什么别人听个歌，有人还在这阴阳怪气[辣眼睛-圣诞][辣眼睛-圣诞][辣眼睛-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 34
+我感觉蔡徐坤那歌还蛮不错的
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 35
+恭喜您即将从2020年2.0升级到2021年2.1！此次更新做了以下调整● 角色等级自动调整为【+1】● 修复了生活打击不全的BUG●【春节】模式强势回归● 新增【春节拜年】【亲朋好友的问候】等剧情●【七大姨八大姑】等角色强势回归● 在线时间自动减少● 新解锁副本：未来 一年的幻想● 加入了【明年我要做到】功能。●【节假日】及其他大型活动副本重置。● 副本【赚钱】【脱单】强势回归。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 36
+你老婆的数量[呲牙-圣诞][妙啊-圣诞]↓
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 37
+在元旦晚会上唱了这首串烧~差点没累死我（小声bb）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 38
+不得不说这40首歌几乎都是在抖音上火过的歌。虽然说确实有些质量低的歌，但好歌也很多。我是个很喜欢音乐的人，只要有自我辨别能力，就能从抖音找到很多好的音乐。不过我想吐槽抖音和哔哩哔哩的一点是，哔哩哔哩翻唱太少了，而且有特色的不多，但至少都是一整首。抖音上有特色的很多，翻唱的也很多，但大部分只唱一小段。挺无语的，我特别喜欢听自己喜欢的歌被各种翻唱。（以上只讨论音乐）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: s
+Now line 39
+没光点？这榜单行不行啊？[doge-圣诞][doge-圣诞][doge-圣诞][tv_doge][tv_doge][tv_doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 40
+2020有好多古风歌曲和带戏腔的歌曲火了！这是好事[OK-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 41
+00:00《红莲华》00:16《loser》00:31《mojito》00:48《DADDY!DADDY!DO!》01:06《maria》01:20《你最最最重要》01:35《万有引力》01:45《yes！ok！》01:54《少年》02:02《你要跳舞吗》02:10《下山》02:20《处处吻》02:28《破茧》02:43《你的答案》02:52《执迷 不悟》02:59《unravel》03:16《Astronamia》黑人抬棺03:33《画画的baby》03:41《酒醉的蝴蝶》03:56《how you like that》04:04《Old Town Road》04:13《淡黄的长裙》04:20《last dance》04:38《飞鸟和蝉》04:59《情人》05:09《云与海》05:29《永不失联的爱》05:51《无人之岛》06:06《冬眠》06:25《是想你的声音啊》06:38《吹灭小山河》06:54《谪仙》07:12《莫问归期》07:36《海底》07:49 《十年人间》08:07《赤伶》08:26《孽海记》08:44《燕无歇》09:02《隔岸》09:22《囍》
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 42
+果然可爱就是我白嫖不了的女人!
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 43
+可爱的旗袍好漂亮，那个西服[doge]我要笑死了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 44
+杨同学2020年的心血都在这儿了，让我看到你们的三连~对了，之前说的50w粉丝福利，就当做这首歌里的某一部分了，你们懂的《yes!ok!》是临时学的，真的很菜，下次争取100w粉丝福利跳个古典舞《你要跳舞吗》本来想跳帕梅拉的，但是幅度过大，对穿裙子的美少女不 是很友好韩语really第一尝试，练了好久，肯定业余，大家口下留情啊！！在这里提前祝大家：新的一年里，健健康康、开开心心奥！--------------------策划/编曲/尤克里里/演唱：杨可爱混音：做音乐的JIA拍摄/后期：茜茜张服装：汉尚华莲 桃花羽扇、花开了PHOTO 、灰子室内场景：花开了PHOTO购琴：店铺【趣弹乐器】曲谱：趣弹音乐
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 45
+“正宗”衣服课代表来啦！PS：我是男生，衣服只能想到啥说啥！第一件，哇，看起来好文艺，黑蓝搭配的裙裙。然后我就犯困了(இдஇ; ) ，第二个镜头是同一件吗？感觉又是另一条裙子了。第二件：好暖(｡･ω･｡)粉粉的一套！加一个毛茸茸的白色帽子。第三件：嗯（陷入思 考）这是过膝的黑裙裙，头发上的红领结好看(｡･ω･｡)ﾉ♡第四件：白色上衣加一件牛仔裤，呃呃呃，暂时没用形容词。但是，好看！第五 件：加上斜纹领带的格子裙裙，加了一个白发夹！第六件：白色的上衣配上格子裙裙[笑哭]第七件：[星星眼]旗袍，嗯嗯嗯嗯，加贵妇带毛毛的不知道啥名字的。。貂？[喜极而泣]第八件：黑人抬棺的专属佩服！外加盲人墨镜！[滑稽]第九件：文艺复兴之红红文青服[歪嘴]第十件：我称之为复古风，具体没get到[惊喜]第十一件：古风裙裙[喜欢]，古风裙裙，古风裙裙[喜欢]第十二件：红色的古风裙裙[喜欢]原谅我找不到形容词。[害羞]对衣服敏感度就这么高了，各路大神轻喷，轻喷[酸了][酸了][酸了]另外，up能反手给我一个UP觉得很淦 ！嘻嘻嘻[抠鼻][抠鼻][抠鼻]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 46
+来个进击的巨人第四季op呗《我的战争》[星星眼-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: s
+Now line 47
+祝可爱2021破百万！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 48
+我想起来了！！！冯巩！！！！我可想死你了[煌-震撼][煌-震撼]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 49
+最后那首囍唱的太惊艳了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 50
+好家伙  果然是因为我卸载了dy 这里面得有一半的歌我都没听过
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 51
+对比2019的串烧，场景丰富了，动作神态也更丰富了，UP更用心了！还有一个明显变化就是UP变胖了。[妙啊-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 52
+谢谢让我知道了那些耳熟却完全不知道名字的歌[捂脸-圣诞]太棒了，吹爆！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 53
+看到有人说真就是“抖音神曲”呗，我觉得你这是说反了，并不是说因为抖音而带红了歌曲，而是正因为很火，所以才会被拿去。而且我觉得我们真正讨厌的（至少我是很讨厌）是那种乱改歌曲，真就改编就是乱编呗。还有那些奇怪的笑声（猴子声）我快要吐了[吐]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 54
+手机里没有抖音身边同事也没有…我只用wyy 但是这些歌除了3首我都听过…这就是个听不听新歌/热歌的区别吧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 55
+音乐能抵达任何地方，你们看，这个2020没那么美好，但是依然还是有这么多歌流传在我们之间，冥冥之中，听着听着就把我们送到2021年去了，祝大家新年快乐，明年如意。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 56
+杨可爱太强了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 57
+如果世界上没有中文歌就好了，肯定世界都会安静多了，如今没听过中文歌，都可以装逼了，真是失望透顶啊。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 58
+不是听不了一些歌，有些歌确实挺好听，但是经过某某，某某…等等一些…二次“创作”，再加上用户不文明使用，，导致条件反射的产生厌恶[无语][无语][无语]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 59
+以下有几点想反映以下，1.虚空弹琴看了实在太尴尬了，特别还是给了手部特写，怎么想的？2.这个很多都是硬生生窜进去的，听着有点难受。3.最重要的一点是迪迦这么没牌面吗？今年迪迦主题曲火得不得了，经常上B站热门，结果居然没有，差评（也没有入海，有冬眠 算是安抚了一下）[doge-圣诞][doge-圣诞][doge-圣诞][doge-圣诞]纯属个人感想，不喜勿喷
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: gs
+Now line 60
+杨同学2020年的心血都在这儿了，让我看到你们的三连~对了，之前说的50w粉丝福利，就当做这首歌里的某一部分了，你们懂的《yes!ok!》是临时学的，真的很菜，下次争取100w粉丝福利跳个古典舞《你要跳舞吗》本来想跳帕梅拉的，但是幅度过大，对穿裙子的美少女不 是很友好韩语really第一尝试，练了好久，肯定业余，大家口下留情啊！！在这里提前祝大家：新的一年里，健健康康、开开心心奥！--------------------策划/编曲/尤克里里/演唱：杨可爱混音：做音乐的JIA拍摄/后期：茜茜张服装：汉尚华莲 桃花羽扇、花开了PHOTO 、灰子室内场景：花开了PHOTO购琴：店铺【趣弹乐器】曲谱：趣弹音乐
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 61
+[doge-圣诞]绝大多数都塔玛听到室友抖音里的。。。抖音毒瘤有一手的啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 62
+从热门下去又上来并且冲到了榜一，这梅开二度就离谱。[热词系列_知识增加]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 63
+打问号也是够了不喜欢的歌跳过呗污染弹幕环境，还有是2020年火的歌又不一定要是今年新出的歌
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 64
+我现在就想知道量贩的KTV能唱这首歌了嘛[微笑]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 65
+(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　 　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)( 　　´)(           )(`　　 )(･`       )(ω･`　)(･ω･`  )(´･ω･`)(  ´･ω･)(　´･ω)(  　 ´･)
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 66
+从前有个鼎，叫下次一鼎，鼎里有个瓢，叫白瓢，我们要用它抓捕一种叫up主的生物，就这样，慢慢的靠近，然后拿出三连，对up主挥动，up就会向你冲来，然后我们放出下次一鼎，这样up主只能愤怒的看着里面的白瓢
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 67
+看完视频一方面是觉得小姐姐唱歌弹琴好棒，但更多的是感觉在一个视频里把2020年都回忆了一遍，挺感慨的。你们有没有听到一首歌就想起某个人，某件事，某段时光呢？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 68
+情人好评！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 69
+2020年只剩最后4天了。2020实鼠不易，2021牛转乾坤[OK-圣诞][OK-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 70
+蔡徐坤的情人针不戳，果然还是要靠作品说话才显得有底气
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 71
+为啥除了处处吻 酒醉的蝴蝶  没黑人抬棺其余的都没听过  身边的人也没有听的？？？[囧]是我落伍了么[捂脸-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 72
+2020神曲合集，还能看到圆脸和大长腿杨同学我爱了，这期居然看到可爱跳舞，还有解锁工地日语和粤语我没有遗憾了，上次可爱投稿跳舞还是在琵琶行那个视频里，这次[热词系列_这次一定]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 73
+从你被骗的视频过来的，抱抱～
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 74
+嚯哈哈哈哈哈草哦。为啥会长那段那么像佟掌柜[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 75
+奇迹暖暖x奇迹可爱√
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 76
+不说全部吧，大部分都是当代快餐歌曲代表，流水线般的旋律，毫无特色的歌词，同样毫无深度与丰富度的伴奏。这样的歌曲之所以被称之为快餐，就是因为它火不了多久，经受不了时间的考验，注定成为不了经典。不知道觉得这些歌可以的人听过多少真正优秀的音乐？（只针对歌本身，不针对up）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: gs
+Now line 77
+感觉40首歌都在一个调上.....
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 78
+▷ ︎ı||ııı|||ııı||ııı||9”
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 79
+听着听着就哭了真的是承载了我的2020从高考前网课到复课冲刺，再到迎接自己的18岁，离家上大学。每一首歌都陪我走过了我至今人生中最难忘的一年表白up[热词系列_神仙UP]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 80
+去年因为兴趣做了杨可爱小姐姐的19年度热曲网易云歌单，这次应小伙伴做了2020年度网易云歌单 ： （ https://music.163.com/playlist?id=5432049040&userid=286799084 ），《破茧》《mojito》《执迷不悟》《酒醉的蝴蝶》《飞鸟和蝉》《莫问归期》《燕无歇》这 几首歌和up主的翻唱版本一致的没有版权，有合适的其他翻唱我也加入歌单里了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 81
+可爱超美，纪念我和可爱即将一起走过第一个年头[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 82
+一人血书up翻唱完整版的《莫问归期》，那一小段不下听了30遍，真的太有感觉了！[热词系列_爱了爱了][热词系列_吹爆]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 83
+百米冲刺抱走尤克里里，留下一脸懵逼的可爱[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 84
+歌……听不出来原版，音差太多了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 85
+竟然没有肖战的光点[doge-圣诞][doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 86
+2020の串烧终于来了，可爱nb！！[OK]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 87
+球球up出个古风专篇趴，up古风太惊艳了[热词系列_爱了爱了]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 88
+处处吻 那段 旗袍！  啊 ！ 美炸！！   我投了我投了一个币   然后喊办公室的小哥哥们又一人投了一个币！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 89
+展望2021年，新的一年，新的起点，新的征程，新的希望。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 90
+这个up我关注好久了，明明就是很有实力，一直很努力踏实的，却因为最新的那个视频被说什么掌握了流量密码[藏狐]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 91
+我还在想我什么时候关注过你的，翻了你以前的视频，原来是在这里关注你的
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 92
+在up这里才觉得抖音神曲原来可以这么好听
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 93
+就凭这几秒钟的舞，三连了![OK]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 94
+0播放15评论
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 95
+这些歌我80%从人家外放的短视频那听来的[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 96
+这视频真的让我知道20年火的歌，可能圈不一样吧，我基本上听得不是电音就是交响乐，视频古风歌是真动了心，想去搜索收藏突然发现咋又和up唱的味对不上[捂脸]，还是更喜欢up这种。所以我三连转发缓存了[doge]，所以……
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 97
+我的天太好听了姐姐啊啊啊啊啊而且造型方面真的很用心！！！主要是这些热歌我虽然名字都不知道但是一听到就有反应[捂脸]我的舍友每天二十四小时循环其中的几首，我已经被弄得有点应激反应了听到都开始有点fanwei，多亏看到你这版我才知道原来我错过了好多不错的歌曲[大哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 98
+衣服穿搭教学[热词系列_可以]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 99
+2020最火40首（×）2020抖音最火40首（√）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 100
+这个Cover是谁啊？每首歌都有他，好厉害啊[哦呼]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 101
+小伙伴们，云村有音频！有音频！[打call-圣诞][打call-圣诞][打call-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 102
+用心了，但真不是专业歌手
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 103
+2020好像大部分都在文艺复兴[笑哭][doge][doge][doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 104
+现在还有几个不恰饭，几乎不发动态，只是在努力的输出优质作品的up（不反对恰饭，甚至希望可爱杨恰饭，给我们带来更好的作品）[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 105
+2020过得好快啊 好像什么都没干就新的一年了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: m\n
+Try again.
+Now line 105
+2020过得好快啊 好像什么都没干就新的一年了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 106
+答应我，要多穿古装，现代装不适合你。当古装出现在你身上的时候，那浑然一体的感觉。中国传统服装就得靠你们这一类人推广了。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 107
+https://i.y.qq.com/n2/m/share/details/taoge.html?platform=11&appshare=android_qq&appversion=10070509&hosteuin=oK6kowEAoK4z7eSsNeEF7w-FNv**&id=7830204864&ADTAG=wxfshareQQ音乐歌单链接，需要请点赞下单
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 108
+唱的不太好听，有很多唱偏调 希望up越来越好吧[热词系列_三连]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: gs
+Now line 109
+原来是这个姐姐 太惨了抱抱
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 110
+这不上传到网易云？我吹爆
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 111
+这视频拜年祭都能上，太强了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 112
+杨可爱，你知道你涨了多少粉了吗[OK-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 113
+万能的宝藏up啊[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 114
+真的是很用心的作品 新的一年也要加油啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 115
+up主摸摸头，真心疼
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 116
+我没听过等于这个歌很红吗。PXJ也就这格局了。这些有考虑与整个哥谭市为敌吗🤡[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 117
+所以你一个季节四十套衣服[妙啊-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 118
+都是今年最火的歌，但是其中有一些歌在某音平台真的听烦了，各个视频都在用那几首做BGM。[喜极而泣]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 119
+unravel和loser让我怎能不三连！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 120
+40首歌里也就听过几首，果然老了[辣眼睛]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 121
+这么好的up怎么不过百万大关呢？[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 122
+等个课代表[害羞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 123
+终于等到了！！！前阵子一直在循环19和18年的！！一直想20的什么时候来！！！！立马三连，给我冲！！！！！[奋斗][奋斗][奋斗]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 124
+现在古风这么火了吗？从那一大段古风开始就完全没听过了，并且伴奏旋律之类的都很类似，我直接就快进到结尾了。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 125
+我是期期年年次次都看，什么叫质量啊，这就叫质量[热词系列_三连][OK-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 126
+这是新的串烧？这是新的可爱的服装[热词系列_秀]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 127
+可惜现在视频的制作用心程度和数据不成正比呀
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 128
+2022了！！！！！！快出2021年度
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 129
+一年了  真的好快
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 130
+我顺着歌名回去听，但是没有这里好听
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 131
+一天一夜涨粉12万。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 132
+一曲赢得吾喜心，一人让得吾痴迷问世佳人何处有，近在眼前无处及有颜有质有才艺，曲妙曲悦曲美丽此人唯有杨可爱,   敢问世人有何争
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 133
+终于看见你跳舞了，真的豁出去了 [捂脸-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 134
+蹲21年的。[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 135
+反反复复听了无数次集合[给心心]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 136
+好可怜[热词系列_泪目]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 137
+这什么神仙UP，币留不住了。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 138
+一人血书翻唱《囍》
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 139
+不上网易云取关[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 140
+555为什么qq音乐没有了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 141
+哇！好开心！看到可爱的视频上了全站排行榜前几名，从昨天到今天粉丝涨了好像有二十万！为可爱开心！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 142
+[doge-圣诞]好家伙，年年都有十年人间
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 143
+这么多变的风格，到底哪个是真实的你[吃瓜-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 144
+最后一段古风串烧编曲也太好听了啊啊啊啊啊啊！！！我去搜原曲都没你的编曲好听 我泪了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 145
+求问十年人间是怎么出圈的吖，本不混圈佛系稻米疑惑挠头[捂脸-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 146
+可惜没有大威天龙
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 147
+为什么没有damedane啊[doge-圣诞]真的蛮期待有的
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 148
+？？没怎么听过
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 149
+这歌真好看   （不是）   小姐姐真好听[害羞][喜欢]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 150
+课代表来了，up主一共换了16套衣服，这衣服这好听，这歌这好看[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 151
+[热词系列_三连]安？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 152
+这还是我见过的第一个 投币比点赞多的视频
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 153
+有没有网易云啊啊啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 154
+这就是我想象中的尤克里里[热词系列_可以][热词系列_爱了爱了][热词系列_吹爆][热词系列_你币有了][热词系列_秀]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 155
+一年就这么过去了，泪目[大哭][大哭][大哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 156
+每次年度总结都听得很爽[呲牙-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 157
+可爱啥时候百大啊！[星星眼-圣诞][星星眼-圣诞][星星眼-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 158
+想起来关注可爱就是因为盘点来着
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 159
+大制作，细节满分！！太绝了！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 160
+又到了年底看谁活好的时候了 。[热词系列_三连]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 161
+我来催2021年的合集了[吃瓜]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 162
+蹲2021！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 163
+今年也快了吧[音律联觉_期待]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 164
+杀疯了！5分11秒开始，杀疯了！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 165
+2021最火歌曲大串烧也要来了吧[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 166
+浑浑噩噩的一年又要过去了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 167
+抱抱你 刷了一下你的视频 希望对你有点帮助[拥抱]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 168
+唉
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 169
+2021年9月14日，正在观看从30涨到了40[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 170
+我又回来了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 171
+史上最帅的人B站号https://space.bilibili.com/想要个赞(复制粘贴)[doge][doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 172
+up很强，歌也都好听，这么好的视频还有人在评论区讨论什么听没听过？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 173
+提一句不情之请，能每一首都出一个视频吗，刚开始以为是以前唱过的歌，拼凑到一起的，后面查了以后，才发现不是，不过真的很豪啊，一首MV这么多服装
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 174
+不好意思了兄弟们 我听了一百遍了 来个能打败我的
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 175
+好家伙，今年德芙的广告没有你我不看[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 176
+《飞鸟和蝉》一出来就哭了，满脑子都是去年那些日子。还有《冬眠》梦回疫情期间在家网课的时光，每天早上我都会和我爸出门晨跑，边跑边循环QQ音乐的榜单，跑完就会来准备上网课。2020年真的经历了太多，我也失去了太多。现在已经是2021了，希望新的这一年大家都能如愿。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 177
+好UP，求隔岸全曲成不？！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 178
+关注UP主的时候 粉丝5万+ 现在已经超过70万了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 179
+Tsl 是什么意思
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 180
+这太狠了，我现在一个封闭的环境，已经四个月没回家了，很想找一个合集，好家伙这太合我意了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 181
+[2021]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 182
+阿婆主的衣柜真大[妙啊]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 183
+6666666666666666
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 184
+哔哩哔哩元旦晚会你不来我不看[害羞][害羞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 185
+白嫖失败，up很用心，准备了每首歌对应的服饰[热词系列_可以]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 186
+虽迟，[热词系列_三连]到[惊喜][惊喜][惊喜]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 187
+百万粉提前预定了[狗子]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 188
+很用心了，好久没有看见这么高质量得了，加油[doge-圣诞][doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 189
+白嫖失败 三连给你[妙啊-圣诞][羞羞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 190
+三连啦，布景和着装真的很用心，也很费工夫[支持]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 191
+啊啊啊啊啊啊啊啊啊啊啊啊我老婆更新啦
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 192
+ke  ai  zhen  bang！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 193
+唱的真难听，后期痕迹太明显了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 194
+说实话唱的不好听[捂眼]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 195
+2级号是一种可爱的猫科生物，它会用头蹭蹭所有路过点赞的人，并发出软乎乎的喵喵声(=・ω・=)（每日乞讨0/1）
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 196
+课代表在哪？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 197
+2022还在听，越听越好听，会有2021的合集吗[虎年][虎年][2022]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 198
+听完这十分钟我的多巴胺要爆表啦[抓狂]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 199
+2021年的串烧呢？我等了一年了[难过]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 200
+21年的串烧还有没有[微笑]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 201
+好期待 今年有没有串烧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 202
+宝，2022了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 203
+2021的什么时候安排
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 204
+哇，这小姐姐好仙啊，爱了爱了[给心心][给心心][给心心]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 205
+2021年还有吗
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 206
+我遇到小偷了！就是这个up主，看她一个视频我就少两个硬币！！！收藏夹还会多出来一个链接！太可怕了！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 207
+上次看这个感觉就这昨天今年居然也快了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 208
+[大哭]想问一下有没有伴奏呀 不会弹乐器想在元旦晚会唱这个！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 209
+了不起！上次听到这么好的串烧还是赵英俊做的！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 210
+up真可爱
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 211
+等待2021串烧中——
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 212
+期待可爱的21年串烧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 213
+救命 好厉害 好美 好好听 好喜欢
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 214
+b站  一个有版权的播放器罢了[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 215
+感谢up主，让我找到了玛利亚这首歌，并不是我有多想听，而是这首歌真的对我很重要，当年我特别喜欢这首歌，但是却不知道叫什么，我的竹马说这首歌不好听好难听，问我审美观怎么这么奇怪啊，当时我也没在意，男生嘛，当然不一样对吧，可是有一天大早上，他来我家和我说，他知道这首歌的歌名，然后又买了一个关子，告诉了我，他说；‘’我突然就觉得这首歌蛮好听的，就躲在被窝里找了一个晚上，幸好我妈不知道，要不然得打死我啊。‘’当时还小，就信了，之后我们因为一个事情吵了一架，就冷战了一个月，有一天我看见隔壁来了几辆陌生的车，没有太注意，几个星期后，我渐渐发现，他以前和我吵完架后，总会在我家门口荡几圈，可是到现在还没看见他，我就生气了，没再关注他了，几个月后，我才知道，他搬家了，我当时就非常后悔，他从我幼儿园大班就一起玩了，一直到5岁，6岁，7岁，8岁，9岁10岁，11岁，可是他现在搬走了，以后他再也不能和我在树上摘果子了，再也不能和我一起玩电脑了，再也不能和我一起抢一个 椅子了，我不擅长说话，虽然这些年来改了很多，但是还是不擅于表达，我只希望他能过得很好，请大家珍惜现在的好朋友，也感谢up主，真心感谢您让我找到这首歌，谢谢
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 216
+坐等2021的[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 217
+等2021总汇
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 218
+原来是你~
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 219
+再来亿遍！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 220
+这个拍摄成本越想越吓人，，
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 221
+问：姐姐是什么神仙[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 222
+海澜之家，女人的衣柜[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 223
+音色贼棒，另外摄影大大是真的厉害！[打call][打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 224
+老婆如衣服  兄弟如手足  谁动我衣服我剁他手足[阴险]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 225
+太爱戏腔了[妙啊]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 226
+每天刷好多遍，还给朋友安利了，真的好喜欢！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 227
+彩礼多少？让我算算唱多少首我能回本[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 228
+想三连，发现已经三连过了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 229
+心理老师给我们放了一遍，回来听了好多遍。太上头了。[热词系列_再来亿遍]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 230
+迟来的课代表 开始：00：01 结束：10：10 我辛苦了[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 231
+这个叫Cover的好厉害，唱了好多歌[打call][打call][打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 232
+敢问阿婆主那套明制是哪家店的，太喜欢了，想买给女朋友。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 233
+衔接的丝滑般的顺滑。有好几次不是听到熟悉的台词我都不知道已经换歌了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 234
+我记得好像还有悬溺，嚣张啥的……[妙啊]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 235
+有谁跟我一样是边看视频边搜歌的？[笑哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 236
+猪油骨，拿来卤，你又忘洗蛋，不过我，煮了袋速食面~
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 237
+这个我真的跪了，拍摄，剪辑，都超级赞，妹子还漂亮。。。唱的还超级不错。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 238
+网易云出音频吧！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 239
+不会真有人点进来就为了听歌吧[妙啊][doge][妙啊][doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 240
+云与海，永不失联的爱，无人之岛，冬眠，吹灭小山河，莫问归期，海底，孽海记，隔岸，
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 241
+这声音唱的听得是真的累…
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 242
+年初:所以暂时将你眼睛闭了起来年末:万里迢迢江水未曾把我阻拦
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 243
+这么看来2020年的歌比19年差诶
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 244
+论我刷了什么神仙
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 245
+听完这个 对照歌名去找了歌 发现 大多让人失望，发现还是up主唱的对我胃口[打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 246
+你牛，啥也会。只是感觉都一个味。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 247
+牛逼
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 248
+我的币拿去[热词系列_三连]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 249
+白嫖快半年了，这次白嫖失败，三联奉上[打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 250
+2020串烧天花板
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 251
+有些人听着听着就打开了网易云QQ音乐
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 252
+请问up什么时候开演唱会？我要预定内场票[打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 253
+也太厉害了小姐姐
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 254
+玩抖的真的基本上都听过[热词系列_吹爆]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 255
+评论区真有意思，这么多舔狗啊，这个up不就是歌唱的好听点，人长的漂亮点，乐器弹的好，舞蹈跳的好，她还有啥？还有啥？你告诉我！汪汪汪汪！！！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 256
+每日一遍yes ok！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 257
+知道我为啥投币吗？因为有只蝴蝶飞我键盘上了。[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 258
+Cover究竟是哪位大神啊[惊讶]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 259
+新歌单有了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 260
+在小破站我很开心，不过最近由于时间关系，发生了一些无可奈何的事，这应该是我今年最后一天在小破站了，谢谢各位。[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 261
+《论从百草园杀到三味书屋》[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 262
+聊晕了是什么玩意儿
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 263
+忘川彼岸不火吗 话说 居然没在里面 之前经常听到[笑哭] 红色彼岸花 花瓣遍地撒
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ns
+Now line 264
+当我发现我全听过之后，诶嘿～我终于不是2G网了[笑哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 265
+求歌单
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 266
+从头看到尾，越看越觉得哪里不对，跪下来重新看了一遍果然舒服多了【doge-圣诞】
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 267
+怎么感觉2019年的时候，你的脸瘦一些
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 268
+2020最火40首×抖音最火40首√
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 269
+好家伙，今年百大没你我不看[吃瓜]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 270
+为什么没有damedane[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 271
+我卡姐的浦西呢[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 272
+大可爱有木有上传什么音乐软件，我想去下载
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 273
+属于老城路的一年应该是2019年，谢谢
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 274
+好想把后面古风戏腔那段音频截下来单曲循环[打call-圣诞]去听了原版，反而觉得视频里的更好听，不知道是不是先入为主[捂脸]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 275
+东北大乱炖直呼内行。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 276
+一进来就找mojito，找半天没找到，突然唱到了，一看在第三首，差点点踩[doge-圣诞]有就给你个赞[妙啊-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 277
+我超喜欢听古风歌，歌单里几乎都是古风歌。一个月前学校举办一年一度的文艺汇演。同学们的表演都超赞！！！[打call-圣诞]二十几 个节目里我映像最深刻的就是六个学姐学长(都穿着汉服，两个学姐一个学长主喝，一个学姐哼曲，一个学长弹古筝一个弹尤克里里伴奏)的《赤伶》！[星星眼-圣诞]那戏腔一出来简直惊得我六亲不认！(bushi)之后看节目单知晓了歌名，现在它已经成为我2020单曲循环播放次数最高的歌了。[OK-圣诞]视频里有它，再加上up主歌与歌之间的链接让我佩服得五体投地。(看到视频中后期时，我关注着up主的衣服，完全没意识到已经换了几首歌了，我听着还以为是同一首…)[点赞]所以，五连奉上！！！[热词系列_吹爆]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 278
+哇，原来这些都是2020年里的歌啊。这一年，发生太多了。[tv_皱眉]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 279
+你衣服好 ！ 多  ！啊   ！[妙啊-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 280
+哇啊啊啊，那个十年人间绝了直接想到了沙海那一段，我哭了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 281
+呜呜呜好喜欢可爱可爱每首歌都好喜欢一直都在支持 今天终于看到上热门榜了激动死了[大哭][大哭][大哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 282
+破站，为啥就能投两个币？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 283
+这不三连？？等我锤烂你的手机？？[加油][加油][加油]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 284
+你到底有多少套衣服啊[呆]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 285
+老粉见证杨可爱又一个百万视频的诞生，泪目[热词系列_泪目]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 286
+哈哈听过超过一半，不算脱离时代吧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 287
+十年人间能再上榜我是没想到的，哭了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 288
+投币比点赞的多[打call-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 289
+可爱好适合旗袍啊啊啊啊。上海滩第一歌姬[吃瓜-圣诞][吃瓜-圣诞][吃瓜-圣诞]顺便说一下可爱瘦了hhh
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 290
+为啥没有点歌的人[歪嘴]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 291
+搜宇宙搜到这种东西[呲牙-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 292
+好家伙，全能！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 293
+必火[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 294
+比去年更好听了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 295
+2020 每一个人都注定不凡积极并感激地活着便是我们最大的成就！！！健健康康，开开心心，2021我们要来了！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 296
+原本想白嫖的，莫名就点了个赞，一不小心就投了两个币，看完就乖乖听可爱的话收藏加评论了～[热词系列_猛男必看]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 297
+大佬，关注了，关注了。[说唱新世代_贞不戳][说唱新世代_真漂亮][说唱新世代_舞王]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 298
+币比点赞多什么比例[doge-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 299
+你为什么还不火啊啊啊啊啊！！！！！你快给我火啊啊啊啊啊啊啊！！！！！你这么棒！！！[热词系列_我哭了]杨可爱冲冲冲啊啊啊啊 啊啊！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 300
+超赞！淦！爱了！爱了！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 301
+怎么没有 打咩打咩~打咩呦~
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 302
+求所有衣服的店铺还有链接[小电视_太太喜欢]顺便表白可爱~
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 303
+可爱跳舞了[热词系列_知识增加]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 304
+up主好有气质，我好爱[喜欢]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 305
+等啥呢，[热词系列_三连]啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 306
+可爱简直是[热词系列_神仙UP][星星眼-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 307
+哇！！！新鲜！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 308
+唱的一般般，没有感情上的共鸣。这些主要还是阅历浅的缘故，所以在感情表达上欠缺。如果up真的想有所发展的话，可以私聊我，我可以给你一场撕心裂肺的感情，帮助你歌道大成[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: gs
+Now line 309
+可爱可爱真可爱[打call-圣诞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 310
+6分钟前，终于等到串烧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 311
+好听！！！[喜欢][喜欢]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 312
+这个串烧水平真的不行 不是强行凑一起就是串烧的
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 313
+串烧就串烧非得2020，也就骗骗不听歌的人了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: g
+Now line 314
+好听好听
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 315
+看这视频看出一种拆盲盒的感觉[吃瓜]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 316
+2021的呢？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 317
+2022啦，求更新[2022][2022][给心心][给心心]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 318
+求2021
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 319
+催一下21年的快烧[害羞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 320
+催更，我想知道21年火了哪些歌
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 321
+此串烧入坑尤克里里
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 322
+是不是该2021年的串烧了[2021]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 323
+绝了绝了绝了[喜欢][喜欢][喜欢]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 324
+我发现我渐渐喜欢上了这个女的，怎么办，好漂亮啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 325
+期待2021～[给心心][给心心][给心心]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 326
+期待2021串烧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 327
+2021 期待
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 328
+哇~大神，太好听了~~~[打call][打call][打call][打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 329
+2021还没出来，只能来听2020了[给心心][给心心]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 330
+突然想起这个视频，一看刚好一年[2021]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 331
+这是什么神仙up啊，爱了爱了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 332
+能不能出每首完整版 买爆
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 333
+太爱了啊[热词系列_燃起来了]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 334
+好久没听课了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 335
+这才是串烧而且都挺好听的，哪个啥子叉叉是真的无语。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 336
+视频经费爆炸[热词系列_三连]了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 337
+真的是串烧吗 我怎么觉得是一首歌[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 338
+已经过了137亿年，宇宙都没有终结，可见这件事有多么难。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 339
+2021快结束了，啥时上2021的啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 340
+@瘫成一块鼠饼 不多说了，来听来看来三连！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 341
+想求伴奏呜呜呜
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 342
+好厉害
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 343
+我总觉得处处吻和那首黑人抬棺在一些地方的衔接应该会很顺畅。还以为会有大佬把这两首拼成一首。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: ps
+Now line 344
+好好听啊！戏腔好绝啊啊啊[热词系列_燃起来了]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 345
+想看唱歌超好听的姐姐卷发的样子😌
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 346
+好听！！！
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 347
+全是回忆
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 348
+真的，我最喜欢女生什么呢？就是喉咙，因为我们男的有喉结，大部分都高音不了，我就是其中一个，我还非常喜欢歌，这算是人生的中的一个遗憾吧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 349
+脑子:必须3连手:白嫖！[吃瓜]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 350
+牛逼
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 351
+薛之谦一首没有？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 352
+太绝了是艺术啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 353
+[保卫萝卜_哇]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 354
+看到弹幕骂少年这首歌，我真不知道少年这歌有什么不好的毛病吗？说给我听听，好像骂的还不少
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 355
+大神，直接一件三连了[微笑]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 356
+up唱的这些热门中文歌，感觉都隐约听过，但真的记不住，都太舒缓，张嘴一开始节奏感真的都诡异的相似，歌词和题目都起的很有意境很抽象，说不出来的感觉，不愿意学新歌那应该是我真的开始老了！现在只愿意听那些节奏感抓耳的歌
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 357
+后面的几乎都没听过怎么办啊，是不是算老年人了都
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: n
+Now line 358
+嘿嘿，我又来了[doge]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 359
+[脱单doge]一曲解千愁
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 360
+好家伙[打call][打call][打call][打call][打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 361
+点赞还没有投币多。
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 362
+从百草枯到三味书屋？
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 363
+大会员五周年偶遇
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 364
+从被骗16万过来的，关注，支持一下
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 365
+几个月再看还是很心动啊啊啊啊啊
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 366
+我也被骗过啦 但是最重要的是重新出发 很佩服能够发出来 勇于面对 我很欣赏 支持 ！ 投币了你的好多视频
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 367
+原来是你！[拥抱]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 368
+肉眼可见的变圆润了[藏狐]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 369
+币比赞多
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 370
+已三连，谢谢小姐姐的音乐[打call]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 371
+为什么只能点赞一次，我想疯狂点赞啊啊啊[tv_微笑][tv_微笑][tv_微笑]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 372
+该死，怎么只能投两枚
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 373
+这一年过得太漫长
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 374
+泰牛辣👍🏻
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 375
+佟湘玉[笑哭]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 376
+这个系列很八错了，那么多歌圈子涉猎广泛，看到自家厨的很容易被炸出来三连，希望2021还能有同款系列[小电视_赞]
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 377
+姐姐太好听了
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
+Now line 378
+衣服串烧
+g(neg)/p(pos)/n(neu)/s(sug)/gs/ps/ns: p
