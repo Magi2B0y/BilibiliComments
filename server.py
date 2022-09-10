@@ -16,11 +16,11 @@ def index():
 def show():
     url = request.form["Ourl"]
     bilibili_comment.main(url)
-    # 引入bilibili_comment.py并用获取url对应的评论产生./comments.csv
+    # 引入 bilibili_comment.py 并用获取url对应的评论产生./comments.csv
     result = identify.main()
     # 循环预测list中每条评论的类别并产生如下形式的字典
     # {"positive":[],"negative":[],"neutral":[],"suggestion":[],"question":[]}
-    #!使用ajax处理请求直接返回result
+    #!使用ajax处理请求直接返回 result
     return jsonify(result)
 
 if __name__ == '__main__':

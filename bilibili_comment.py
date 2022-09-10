@@ -51,9 +51,6 @@ def main(url=""):
                         size = os.stat(file_path).st_size
                         # sleep(1)
                 flag1 = 0
-            # except:
-            #     print("retry "+str(i))
-            #     continue
         if flag2==0:
             break
     orgnize()

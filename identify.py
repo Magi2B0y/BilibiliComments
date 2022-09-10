@@ -20,7 +20,6 @@ def main(data_file="./comments.csv"):
         temp["comment"]=i[2]
         # temp["praise_num"] = i[4]
         # temp["reply_num"] = i[3]
-        # print(temp)
         r.append(temp)
     # print(r)
 

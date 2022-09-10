@@ -19,7 +19,6 @@ def orgnize():
         s = file.read()
         begin = re.findall("jQuery[\d_]+[(]", s)
         begin_len = len(begin[0])
-        # print(begin_len)
         a = json.loads(s[begin_len:-1])
         # print(a)
         # re1 = "(?<=message\":\")[^\"]*"
